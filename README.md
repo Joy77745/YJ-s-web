@@ -1,1 +1,1 @@
-# YJ-s-web
+# YJ-web
